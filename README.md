@@ -1,6 +1,13 @@
 
 # Employee Management System
 
+## Live Demo
+
+[Click Here to View Live Website](https://employee-management-system-fj7o.onrender.com/)
+
+
+# Employee Management System
+
 A web-based Employee Management System developed using Python and Django.
 
 ## Project Overview
